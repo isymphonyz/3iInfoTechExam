@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">3iInfotech</string>
+
+    <!-- ProductsFragment -->
+    <string name="products_fragment_txt_title">Products</string>
+    <string name="products_fragment_txt_new">New</string>
+
+    <!-- ProductDetailFragment -->
+    <string name="product_detail_fragment_txt_title">Detail</string>
+    <string name="product_detail_fragment_txt_new">@string/products_fragment_txt_new</string>
+
+    <string name="btn_back">Back</string>
+
+    <!-- Transition Product Image -->
+    <string name="transition_product_image">product_image</string>
+</resources>
